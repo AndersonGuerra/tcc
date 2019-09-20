@@ -1,1 +1,2 @@
-# tcc
+# TCC
+Este trabalho tem como intuito contribuir com o ensino de Engenharia de Requisitos com uma proposta de abordagem de ensino que faz uso de estratégias focadas no aluno para o desenvolvimento de competências esperadas pela indústria. Para criar a abordagem, foi feita a identificação das competências através do CMMI-DEV. Os resultados obtidos são analisados de maneira que seja possível identificar o que pode ser melhorado na abordagem.
